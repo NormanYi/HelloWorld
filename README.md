@@ -1,2 +1,1 @@
-# HelloWorld
-Just a learning repository
+This is readme for non-master branch.
